@@ -1,0 +1,16 @@
+.NavBar{
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    margin-top: 50px;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover,
+a:focus{
+    color: #F9CC11;
+}
